@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 @Service
 @Slf4j
 public class ShowService {
-    String b;
+    String c;
 
     @Value("${steve.name}")
     String steveName;
